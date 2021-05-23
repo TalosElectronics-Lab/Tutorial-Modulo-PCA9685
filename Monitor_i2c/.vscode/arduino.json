@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM24",
+    "sketch": "Monitor_i2c.ino"
+}
